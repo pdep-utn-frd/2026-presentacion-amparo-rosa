@@ -1,7 +1,8 @@
-#NOMBRE
-Amparo Rosa
-#CARRERA
+# Hola! 👋 Soy Amparo
+
+## 🎓 Carrera
 Ingeniería en Sistemas de Información
-#DATOS PERSONALES
- -Tengo 19 años
- -Soy de Lima,Zarate
+
+## 📍 Sobre mí
+- Tengo 19 años  
+- Soy de Lima, Zárate #NOMBRE

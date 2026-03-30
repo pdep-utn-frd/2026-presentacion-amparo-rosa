@@ -3,7 +3,7 @@
 ## 🎓 Carrera
 Ingeniería en Sistemas de Información
 
-##💬correo electronico
+## 💬correo electronico
 arosa@frd.utn.edu.ar
 
 ## 📍 Sobre mí

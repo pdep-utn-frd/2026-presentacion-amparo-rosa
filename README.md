@@ -8,4 +8,4 @@ arosa@frd.utn.edu.ar
 
 ## 📍 Sobre mí
 - Tengo 19 años  
-- Soy de Lima, Zárate #NOMBRE
+- Soy de Lima, Zárate 
